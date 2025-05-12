@@ -4,7 +4,7 @@ function App() {
       <div>
         <h2>desde app</h2>
 
-        <div>Aprendiendo tailwind 4</div>
+        <div>Aprendiendo tailwind 4 md</div>
       </div>
     </>
   );
