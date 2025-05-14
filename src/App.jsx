@@ -8,7 +8,7 @@ function App() {
 
         <div>
           <img src="" alt="" />
-          <p>IMG</p>
+          <p>Aqui va una imagen</p>
         </div>
       </div>
     </>
