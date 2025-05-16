@@ -1,16 +1,17 @@
 function App() {
   return (
     <>
-      <div>
-        <h2>desde app</h2>
+      <header>
+        <h1>Enlaces de recursos</h1>
+        <p>Aqui encontrarar los recursos de la mds</p>
+      </header>
+      <main>
+        <div>Contenido</div>
+      </main>
 
-        <div>Aprendiendo tailwind 4 md</div>
-
-        <div>
-          <img src="" alt="" />
-          <p>Aqui va una imagen</p>
-        </div>
-      </div>
+      <footer>
+        <p>Realizado por Nestor Martinez</p>
+      </footer>
     </>
   );
 }
