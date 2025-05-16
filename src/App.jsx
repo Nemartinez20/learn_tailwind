@@ -1,12 +1,12 @@
 function App() {
   return (
     <>
-      <header>
+      <header className="bg-slate-100">
         <h1>Enlaces de recursos</h1>
         <p>Aqui encontrarar los recursos de la mds</p>
       </header>
       <main>
-        <div>Contenido</div>
+        <div></div>
       </main>
 
       <footer>
