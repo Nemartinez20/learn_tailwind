@@ -12,7 +12,7 @@ function App() {
       </main>
 
       <footer>
-        <p>Realizado por Nestor Martinez</p>
+        <p>Realizado por Nestor Martinez 2025</p>
       </footer>
     </>
   );
