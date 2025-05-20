@@ -8,7 +8,7 @@ function App() {
         <a href="">iconos</a>
       </header>
       <main>
-        <div></div>
+        <div className="bg-white">open graff</div>
       </main>
 
       <footer>
