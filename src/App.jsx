@@ -2,7 +2,7 @@ function App() {
   return (
     <div>
       <header className=" p-5 text-white">
-        <div className="flex flex-row rounded-md bg-slate-600 w-full items-center justify-between p-4">
+        <div className="flex flex-row rounded-md bg-slate-700 w-full items-center justify-between p-4">
           <div className="flex gap-3">
             <div>logo</div>
             <div>
@@ -18,23 +18,26 @@ function App() {
           <div className="bg-slate-600 w-48 h-[180px] mask-radial-at-center mask-radial-from-50% mask-radial-to-70% flex justify-center items-center text-white  rounded-sm  hover:scale-110 transition-transform ease-in-out">
             open graff0
           </div>
-          <div className="bg-slate-600 w-48 h-[180px] flex justify-center items-center text-white  rounded-sm  hover:scale-110 transition-transform ease-in-out">
+          <div className="bg-slate-700 w-48 h-[180px] flex justify-center items-center text-white  rounded-sm  hover:scale-110 transition-transform ease-in-out">
             open graff0
           </div>
-          <div className="bg-slate-600 w-48 h-[180px] flex justify-center items-center text-white  rounded-sm  hover:scale-110 transition-transform ease-in-out">
+          <div className="bg-slate-700 w-48 h-[180px] flex justify-center items-center text-white  rounded-sm  hover:scale-110 transition-transform ease-in-out">
             open graff0
           </div>
-          <div className="bg-slate-600 w-48 h-[180px] flex justify-center items-center text-white  rounded-sm  hover:scale-110 transition-transform ease-in-out">
+          <div className="bg-slate-700 w-48 h-[180px] flex justify-center items-center text-white  rounded-sm  hover:scale-110 transition-transform ease-in-out">
             open graff0
           </div>
-          <div className="bg-slate-600 w-48 h-[180px] flex justify-center items-center text-white  rounded-sm  hover:scale-110 transition-transform ease-in-out">
+          <div className="bg-slate-700 w-48 h-[180px] flex justify-center items-center text-white  rounded-sm  hover:scale-110 transition-transform ease-in-out">
             open graff0
           </div>
-          <div className="bg-slate-600 w-48 h-[180px] flex justify-center items-center text-white  rounded-sm  hover:scale-110 transition-transform ease-in-out">
+          <div className="bg-slate-700 w-48 h-[180px] flex justify-center items-center text-white  rounded-sm  hover:scale-110 transition-transform ease-in-out">
             open graff0
           </div>
-          <div className="bg-slate-600 w-48 h-[180px] flex justify-center items-center text-white  rounded-sm ">
-            open graff
+          <div className="bg-slate-700 w-48 h-[180px] flex justify-center items-center text-white  rounded-sm  hover:scale-110 transition-transform ease-in-out">
+            open graff0
+          </div>
+          <div className="bg-slate-700 w-48 h-[180px] flex justify-center items-center text-white  rounded-sm  hover:scale-110 transition-transform ease-in-out">
+            open graff0
           </div>
         </div>
       </main>
